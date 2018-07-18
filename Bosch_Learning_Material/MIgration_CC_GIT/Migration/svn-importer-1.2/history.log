@@ -1,0 +1,23 @@
+**********************************************************************
+date: Aug 17, 2016 6:50:29 PM
+mode: create full dump
+src provider: class org.polarion.svnimporter.ccprovider.CCProvider
+creating full svn model...
+duration: 566 seconds
+**********************************************************************
+date: Aug 18, 2016 9:46:28 AM
+mode: create full dump
+src provider: class org.polarion.svnimporter.ccprovider.CCProvider
+creating full svn model...
+**********************************************************************
+date: Aug 18, 2016 9:50:54 AM
+mode: create full dump
+src provider: class org.polarion.svnimporter.ccprovider.CCProvider
+creating full svn model...
+duration: 472 seconds
+**********************************************************************
+date: Aug 18, 2016 10:05:41 AM
+mode: create full dump
+src provider: class org.polarion.svnimporter.ccprovider.CCProvider
+creating full svn model...
+saving svn model to file...
