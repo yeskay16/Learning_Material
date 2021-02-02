@@ -1,8 +1,0 @@
-
-
-1. Talk about the new design with Hayden. - Work on the variable where you give "full" or "Delta"
-2. just commits. 
-3. How do we know which db ( db name ) to drop ? is it going to be just one db - Variable will point to default DB name 1st. 
-5. Delta exceution - Is there a sequence in which the scriots must be executed ? ans: commit files in the order of execution. 
-6. Full execution - Is there a sequence in which the scriots must be executed ? ans: We cannot control 
-Invlove Shazire Baboo 

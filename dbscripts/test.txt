@@ -1,0 +1,3 @@
+M	dbscripts/apple/apple_v3.js.txt
+D	dbscripts/doll/doll_v1.js.txt
+A	dbscripts/doll/doll_v2.js.txt

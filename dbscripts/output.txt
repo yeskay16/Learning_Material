@@ -1,0 +1,9 @@
+commit 8134495223881263f7a6a989bdff75965c9ea6cd
+Author: Karthik Seenuvasan <karthik.seenuvasan@ad.infosys.com>
+Date:   Mon Feb 1 13:19:38 2021 +0530
+
+     test
+
+M	dbscripts/apple/apple_v3.js.txt
+D	dbscripts/doll/doll_v1.js.txt
+A	dbscripts/doll/doll_v2.js.txt
